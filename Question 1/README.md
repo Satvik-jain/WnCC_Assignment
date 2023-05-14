@@ -21,4 +21,10 @@ You can install these libraries using pip. Open a terminal and enter the followi
 pip install beautifulsoup4 requests pandas xlsxwriter
 '''
 
+This program will create a DataFrame using the Pandas library, It includes useful data such as:
+1) Name of project
+2) Mentors 
+3) Number of mentees allowed
+4) Link to each project
+
 The program saves the extracted and cleaned data in a xlsx file format. You can share this file with others or use it for further analysis.
