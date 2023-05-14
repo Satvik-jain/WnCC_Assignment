@@ -1,7 +1,6 @@
 # This code is incompleted
 # I have done Question 1 B part, that includes Web Scraping.
 
-
 def copy(dict):
     dictionary = {}
     for key in dict:
